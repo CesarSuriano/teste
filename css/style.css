@@ -1,6 +1,9 @@
 h1 {
+    top: 50%;
     margin: 0 auto;
     font-size: 30 px;
     text-align: center;
     width: 100%;
+    position: absolute;
+    display: none;
 }
